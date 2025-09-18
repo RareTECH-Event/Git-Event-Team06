@@ -22,4 +22,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+# DAIGO@54期
+# コーヘイ@57期
+# futaba@55期
+# りゅう@５６期
