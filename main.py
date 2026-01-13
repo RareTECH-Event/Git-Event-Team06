@@ -2,7 +2,7 @@ def main():
     while True:
         print("選択してください：")
         print("1: たけ＠６１期が選ばれました")
-        print("2: 選択肢2")
+        print("2: 選択2")
         print("3: 選択肢3")
         print("q: 終了")
 
